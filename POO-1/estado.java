@@ -1,5 +1,5 @@
 package adopoo;
-
+// teste
 import java.security.MessageDigest;
 import java.text.Normalizer;
 
